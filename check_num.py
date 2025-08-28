@@ -6,5 +6,7 @@ elif number > 0 and number % 2 != 0:        # Check if the number is positive an
     print("Number is a positive odd number")
 elif number < 0 and number % 2 == 0:        # Check if the number is negative and even
     print("Number is a negative even number")
-else:                                       # Else, display that number is negative and odd
+elif number < 0 and number % 2 != 0:        # Check if the number is negative and odd
     print("Number is a negative odd number")
+else:                                       # Otherwise, the number is zero
+    print("Number is zero")
