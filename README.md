@@ -4,11 +4,11 @@ The 3rd Assignment of **Introduction to Python** submitted by **Aadikshar Bhanda
 ## Code
 - `greeter.py`: Outputs certains price based on the `greeting` message provided by the user.
 - `check_num.py`: Outputs whether the `number` is 
-        - positive-even, 
-        - positive-odd,
-        - negative-even, 
-        - negative-odd,
-        - zero
+    - positive-even 
+    - positive-odd
+    - negative-even 
+    - negative-odd
+    - zero
 
 ## Requirements
 - Python (latest version)
