@@ -16,5 +16,5 @@ elif lower_greeting[0] == 'h':
 else:                           
     output = 100      
 
-# Display output
+# Display the output price
 print("Output: $", output)
